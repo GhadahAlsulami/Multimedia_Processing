@@ -18,7 +18,7 @@
 
 #
 <div id="badges">
-  <a href="https://www.linkedin.com/in/atheer-alghamdi-574569201/">
+  <a href="[https://www.linkedin.com/in/atheer-alghamdi-574569201](https://www.linkedin.com/in/ghada-alsulami/)/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
