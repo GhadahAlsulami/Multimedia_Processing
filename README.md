@@ -15,10 +15,3 @@
 #### 🎙 Sound Page 🎙
 <img width="537" alt="Screen Shot 2022-03-12 at 4 53 56 PM" src="https://user-images.githubusercontent.com/75436867/174899475-f5e3098f-5a06-485e-9718-b1bfd574709f.png">
 
-
-#
-<div id="badges">
-  <a href="[https://www.linkedin.com/in/ghada-alsulami]">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
